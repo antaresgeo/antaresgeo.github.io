@@ -1,0 +1,28 @@
+{
+  "name": "ctrujillozt.github.io",
+  "version": "0.0.1",
+  "homepage": "https://ctrujillozt.github.io",
+  "authors": [
+    "Cristian Rafael Trujillo Zuleta <ctrujillozt@gmail.com>"
+  ],
+  "description": "pagina web de trabajo Cristian Trujillo en donde se describen y detallan poryecto en los que ha trabajado o colaborado",
+  "main": "index.html",
+  "keywords": [
+    "Cristian",
+    "Trujillo",
+    "Desarrollo",
+    "Web"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-ajax": "PolymerElements/iron-ajax#^1.0.0"
+  }
+}
