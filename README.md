@@ -1,3 +1,2 @@
 [home]: http://ctrujillozt.github.io
-[^note]: hola
-# [Cristian Trujillo][home][^note]
+# [Cristian Trujillo][home]
